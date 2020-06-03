@@ -1,0 +1,6 @@
+{name}
+{#nameList}
+姓名：{name}
+年龄：{age}
+爱好：{hobby}
+{/nameList}
